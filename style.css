@@ -1,0 +1,84 @@
+.logo{
+    margin-left: 500px;
+}
+#search {
+    width: 480px;
+    border-radius:20px;
+    margin:10px 400px 0 400px;
+    border-style: solid;
+    border-color: #dfe1e5;
+    line-height: 32px;
+    box-shadow: none;
+    background-image:url(voicelogo.png) ;
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: 30px;
+}
+.buttons{
+    text-align: center;
+    margin:19px 0 0 13px;
+}
+.googlesearch{
+    height: 36px;
+    border: 1px solid;
+    color: #5f6368 ;
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.feelinglucky {
+    height: 36px;
+    border: 1px solid;
+    color: #5f6368 ;
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+button:hover {
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.24), 0 1px 4px 0 rgba(0,0,0,0.19);
+}
+.footer{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f2f2f2;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+}
+.footer1 a {
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+  }
+  .footerli a:hover {
+    text-decoration: underline;
+  }
+  
